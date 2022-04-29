@@ -1,12 +1,12 @@
 /*:
  ## Exercise - Concatenation and Interpolation
  
- Create a `city` constant and assign it a string literal representing your home city. Then create a `state` constant and assign it a string literal representing your home state. Finally, create a `home` constant and use string concatenation to assign it a string representing your home city and state (i.e. Portland, Oregon). Print the value of `home`.
+ Create a `city` constant and assign it a string literal representing your home city. Then create a `state` constant and assign it a string literal representing your home state. Finally, create a `home` constant and use **string concatenation** to assign it a string representing your home city and state (i.e. Portland, Oregon). Print the value of `home`. (1 point)
  */
 
 
 /*:
- Use the compound assignment operator (`+=`) to add `home` to `introduction` below. Print the value of `introduction`.
+ Use the compound assignment operator (`+=`) to add `home` to `introduction` below. Print the value of `introduction`. (.5 points)
  */
 var introduction = "I live in"
 
@@ -16,8 +16,8 @@ var introduction = "I live in"
  
  - "My name is <INSERT NAME HERE> and after my next birthday I will be <INSERT AGE HERE> years old."
  
- Insert `name` where indicated, and insert a mathematical expression that evaluates to your current age plus one where indicated.
+ Insert `name` where indicated, and insert a mathematical expression that evaluates to your current age plus one where indicated. (.5 points)
  */
 
 
-//: [Previous](@previous)  |  page 2 of 5  |  [Next: App Exercise - Notifications](@next)
+//: [Previous](@previous)  |  page 2 of 5  |  [Next](@next)
